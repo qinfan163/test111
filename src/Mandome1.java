@@ -5,5 +5,6 @@ public class Mandome1 {
         System.out.println("Hello World");
         System.out.println("是是是");
         System.out.println("这是新建的分支");
+        System.out.println("6666666");
     }
 }
